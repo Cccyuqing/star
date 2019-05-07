@@ -1,0 +1,4 @@
+C:,C:\xyjsource  ****** write log time: 2016-11-22 07:28:09
+"C:\Program Files\cdjksxt\FtpClientS3.exe" --ip=192.168.77.211 --port=6554 --remotefile=jsjdjkspaper.ZIP --localfile="C:\xyjsource\jsjdjkspaper.ZIP" --msghwd=131104 --desc=接收试卷 --fileid=11  ****** write log time: 2016-11-22 07:28:09
+C:,C:\xyjsource  ****** write log time: 2016-11-22 07:28:10
+"C:\Program Files\cdjksxt\FtpClientS3.exe" --ip=192.168.77.211 --port=6554 --remotefile=DJEXAMINFODB.DB --localfile="C:\xyjsource\DJEXAMINFODB.DB" --msghwd=131104 --desc=接收报名库 --fileid=12  ****** write log time: 2016-11-22 07:28:10
