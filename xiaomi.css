@@ -214,6 +214,10 @@ a:hover
     margin-inline-end: 0px;
     padding-inline-start: 40px;
 }
+.daohang-fenlei li:hover
+{
+  background: orange;
+}
 .daohang-fenlei ul li
 {
     width: 100%;
